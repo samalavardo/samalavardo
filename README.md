@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm samalavardo</h1>
-<h3 align="center">I am a novice data scientist and data analyst. I'm just at the very beginning of my career. In 2024, I completed professional retraining at MIPT in the field of Data Science and am now trying to develop in this field of activity. I will publish some of my projects here.</h3>
+<h1 align="left">Hi 👋, I'm samalavardo</h1>
+<h3 align="left">I am a novice data scientist and data analyst. I'm just at the very beginning of my career. In year 2024 I completed professional retraining at MIPT in the field of Data Science and am now trying to develop in this field of activity. I will publish some of my projects here.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samalavardo&label=Profile%20views&color=0e75b6&style=flat" alt="samalavardo" /> </p>
 
